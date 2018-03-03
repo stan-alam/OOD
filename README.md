@@ -63,3 +63,7 @@ puts Gear.new(30, 27).ratio
 <a>
   <img src="https://github.com/stan-alam/OOD/blob/develop/Ruby/svg_files/Notebook-90.svg" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/OOD/blob/develop/Ruby/svg_files/Notebook-97.svg" width="80%" height="80%">
+</a>
