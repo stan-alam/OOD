@@ -1,6 +1,14 @@
 # OOD
 Object Oriented Design/Programming
 
+## OOD Style Guide
+
+<a>
+  <img src="https://github.com/stan-alam/OOD/blob/develop/styleGuide/images/01/OodsgnSTLgd01%20-%201.png" width="80%" height="80%">
+</a>
+
+## OOD Ruby
+
 <a>
   <img src="https://github.com/stan-alam/OOD/blob/develop/Ruby/svg_files/Notebook-56.svg" width="80%" height="80%">
 </a>
